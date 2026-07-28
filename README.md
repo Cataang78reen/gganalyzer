@@ -21,6 +21,7 @@ GGAnalyzer es una herramienta **open-source** para analizar partidas de League o
 
 El proyecto está enfocado en la comunidad española y europea (**EUW**), ofreciendo estadísticas, análisis personalizados y recomendaciones fáciles de entender.
 
+![photo](Services/vbn.png)
 ---
 
 ## ✨ Características
